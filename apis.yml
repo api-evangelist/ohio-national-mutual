@@ -1,0 +1,60 @@
+aid: ohio-national-mutual
+name: Ohio National (Acquired by Constellation Insurance / Rebranded as AuguStar)
+description: >-
+  Ohio National Financial Services was a Cincinnati-based mutual life insurance
+  and annuities provider, historically operating through Ohio National Mutual
+  Holdings, Inc. (ONMH). In March 2021 Constellation Insurance Holdings
+  announced a sponsored demutualization of ONMH and Ohio National Financial
+  Services for total consideration of approximately US$1 billion, including
+  member consideration and new capital. The transaction closed on March 31,
+  2022, after a member vote on March 11, 2022, converting ONMH to a stock
+  company renamed Ohio National Holdings, Inc. On July 17, 2023 Constellation
+  repositioned and rebranded Ohio National's life insurance business as
+  AuguStar Life, with the Ohio National Life Insurance Company and Ohio
+  National Life Assurance Corporation expected to change their names to
+  AuguStar Life Insurance Company and AuguStar Life Assurance Corporation in
+  Q4 2023. Constellation Insurance is owned by long-term institutional
+  investors CDPQ (Caisse de dépôt et placement du Québec) and Ontario
+  Teachers' Pension Plan, and Constellation's family of insurance companies
+  collectively held over US$34 billion in assets under management as of
+  December 31, 2022. The product surface remains traditional life insurance,
+  indexed life, and annuities distributed through agents and independent
+  marketing organizations; no public developer APIs or OpenAPI specs are
+  published.
+url: >-
+  https://raw.githubusercontent.com/api-evangelist/ohio-national-mutual/refs/heads/main/apis.yml
+image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Acquired
+  - Annuities
+  - Demutualization
+  - Financial Services
+  - Indexed Life
+  - Insurance
+  - Life Insurance
+  - Rebrand
+  - Retirement
+created: '2026-05-23'
+modified: '2026-05-23'
+specificationVersion: '0.20'
+apis: []
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
+common:
+  - type: Legacy Website
+    url: https://www.ohionational.com
+  - type: Website
+    url: https://www.welcometoaugustar.com
+  - type: Parent Company
+    url: https://constellationinsurance.com
+  - type: Acquisition Announcement
+    url: https://www.torys.com/en/work/2021/03/5756baf5-7f12-47b9-837e-80f71953e788
+  - type: Rebrand Announcement
+    url: https://constellationinsurance.com/news/ohio-nationals-life-insurance-business-repositioned-and-rebranded-to-augustar-life/
+  - type: Press Release
+    url: https://www.prnewswire.com/news-releases/ohio-nationals-life-insurance-business-repositioned-and-rebranded-to-augustar-life-301878437.html
+  - type: Owner CDPQ
+    url: https://www.cdpq.com
+  - type: Owner Ontario Teachers
+    url: https://www.otpp.com
