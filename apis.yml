@@ -42,6 +42,8 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 common:
+  - type: DomainSecurity
+    url: security/ohio-national-mutual-domain-security.yml
   - type: Legacy Website
     url: https://www.ohionational.com
   - type: Website
