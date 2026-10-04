@@ -50,7 +50,7 @@ tags:
   - Acquired
   - Annuities
   - Demutualization
-  - Financial-Services
+  - Financial Services
   - Indexed Life
   - Insurance
   - Life Insurance
@@ -66,6 +66,7 @@ tags_raw:
   - Life Insurance
   - Rebrand
   - Retirement
+  - Financial-Services
 created: '2026-05-23'
 modified: '2026-05-23'
 specificationVersion: '0.23'
