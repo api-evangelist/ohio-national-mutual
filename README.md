@@ -1,4 +1,4 @@
-# Ohio National (Acquired by Constellation Insurance / Rebranded as AuguStar) (ohio-national-mutual)
+# Ohio National
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,79 +64,79 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ohio National Financial Services was a Cincinnati-based mutual life insurance and annuities provider. In March 2021 Constellation Insurance Holdings announced a sponsored demutualization of Ohio National Mutual Holdings, Inc. (ONMH) and Ohio National Financial Services, Inc. for approximately US$1 billion. The transaction closed on March 31, 2022 after a member vote on March 11, 2022, converting ONMH to a stock company renamed Ohio National Holdings, Inc. On July 17, 2023 Constellation repositioned and rebranded Ohio National's life insurance business as AuguStar Life. Constellation Insurance is owned by CDPQ and Ontario Teachers' Pension Plan, with over US$34 billion in assets under management across its insurance subsidiaries as of December 31, 2022.
+Ohio National Financial Services was a Cincinnati-based mutual life insurance and annuities provider, historically operating through Ohio National Mutual Holdings, Inc. (ONMH). In March 2021 Constellation Insurance Holdings announced a sponsored demutualization of ONMH and Ohio National Financial Services for total consideration of approximately US$1 billion, including member consideration and new capital. The transaction closed on March 31, 2022, after a member vote on March 11, 2022, converting ONMH to a stock company renamed Ohio National Holdings, Inc. On July 17, 2023 Constellation repositioned and rebranded Ohio National's life insurance business as AuguStar Life, with the Ohio National Life Insurance Company and Ohio National Life Assurance Corporation expected to change their names to AuguStar Life Insurance Company and AuguStar Life Assurance Corporation in Q4 2023. Constellation Insurance is owned by long-term institutional investors CDPQ (Caisse de dépôt et placement du Québec) and Ontario Teachers' Pension Plan, and Constellation's family of insurance companies collectively held over US$34 billion in assets under management as of December 31, 2022. The product surface remains traditional life insurance, indexed life, and annuities distributed through agents and independent marketing organizations; no public developer APIs or OpenAPI specs are published.
 
-This repository captures the legacy footprint, acquisition history, and rebrand of Ohio National Financial Services within the API Evangelist network. No public developer APIs are documented.
+**Areas:** Acquired · Annuities · Demutualization · Financial Services · Indexed Life · Insurance · Life Insurance · Rebrand · Retirement
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/ohio-national-mutual/refs/heads/main/apis.yml)
+## Ohio National on APIs.io
 
-## Scope
+Everything profiled for Ohio National is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ohio-national-mutual/](https://apis.io/providers/ohio-national-mutual/)** — or go straight to one of the APIs or properties below.
 
-- **Type:** Company
-- **Status:** Acquired / Rebranded
-- **Position:** Consuming
-- **Access:** 3rd-Party
+### Published properties
 
-## Tags
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-- Acquired
-- Annuities
-- Demutualization
-- Financial Services
-- Indexed Life
-- Insurance
-- Life Insurance
-- Rebrand
-- Retirement
+#### Security (1)
 
-## Timestamps
+Authentication, trust centre, and vulnerability disclosure.
 
-- **Created:** 2026-05-23
-- **Modified:** 2026-05-23
+- [Ohio National Mutual Domain Security](https://apis.io/security/ohio-national-mutual/ohio-national-mutual-domain-security/)
 
-## Corporate History
+## Where to find this API
 
-- **Pre-2021:** Ohio National Mutual Holdings, Inc. (ONMH) and Ohio National Financial Services, Inc. operate as a Cincinnati-based mutual life insurance and annuities group.
-- **March 23, 2021:** Constellation Insurance Holdings announces a sponsored demutualization of ONMH and Ohio National Financial Services for approximately US$1 billion in total consideration (member consideration plus new capital).
-- **March 11, 2022:** ONMH members approve the transaction by vote.
-- **March 31, 2022:** Transaction closes. ONMH converts to a stock company and is renamed Ohio National Holdings, Inc., operating as a subsidiary of Constellation Insurance.
-- **July 17, 2023:** Constellation repositions and rebrands the Ohio National life insurance business as AuguStar Life. The Ohio National Life Insurance Company and Ohio National Life Assurance Corporation are expected to be renamed AuguStar Life Insurance Company and AuguStar Life Assurance Corporation in Q4 2023.
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-## Constellation Insurance Subsidiaries
-
-As reported in the AuguStar rebrand announcement, Constellation's insurance subsidiaries include:
-
-- The Ohio National Life Insurance Company (becoming AuguStar Life Insurance Company)
-- Ohio National Life Assurance Corporation (becoming AuguStar Life Assurance Corporation)
-- National Security Life and Annuity Company
-- Ohio National Seguros de Vida S.A.
-
-## Ownership
-
-Constellation Insurance is owned by:
-
-- CDPQ (Caisse de dépôt et placement du Québec)
-- Ontario Teachers' Pension Plan
-
-Collectively described in the announcement as "two of the world's largest long-term institutional investors," managing over C$650 billion in net assets combined.
-
-## APIs
-
-No public developer APIs have been documented for Ohio National Financial Services or its successor brands (AuguStar Life, Ohio National Holdings). The business operates through traditional agent distribution and independent marketing organizations. Customer- and advisor-facing portals exist but are gated logins, not a public REST API surface.
-
-## Common Properties
-
-- [Legacy Website](https://www.ohionational.com)
 - [Website](https://www.welcometoaugustar.com)
-- [Parent Company](https://constellationinsurance.com)
-- [Acquisition Announcement (Torys LLP)](https://www.torys.com/en/work/2021/03/5756baf5-7f12-47b9-837e-80f71953e788)
-- [Rebrand Announcement (Constellation)](https://constellationinsurance.com/news/ohio-nationals-life-insurance-business-repositioned-and-rebranded-to-augustar-life/)
-- [Press Release (PRNewswire)](https://www.prnewswire.com/news-releases/ohio-nationals-life-insurance-business-repositioned-and-rebranded-to-augustar-life-301878437.html)
-- [Owner — CDPQ](https://www.cdpq.com)
-- [Owner — Ontario Teachers'](https://www.otpp.com)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 3.1** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.3** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ohio-national-mutual/](https://apis.io/providers/ohio-national-mutual/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ohio National: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ohio-national-mutual/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
